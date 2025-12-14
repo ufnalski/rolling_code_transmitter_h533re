@@ -159,7 +159,7 @@ int main(void)
 	/* USER CODE BEGIN BSP */
 
 	/* -- Sample board code to send message over COM1 port ---- */
-	printf("\r\nWelcome to KeeLog world of rolling/hopping codes!\r\n");
+	printf("\r\nWelcome to KeeLoq world of rolling/hopping codes!\r\n");
 
 	/* USER CODE END BSP */
 
